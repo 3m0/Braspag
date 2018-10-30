@@ -1,5 +1,5 @@
 # Braspag
-Módulo de integração ao Braspag com Node.js
+Fork do Módulo de integração ao Braspag com Node.js de lohanbodevan/Braspag
 
 ## Instalação
 
